@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jack\\Documents\\PlatziWeb\\sitiowebplatzi\\PlatziWeb.csproj": {}
+    "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\PlatziWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jack\\Documents\\PlatziWeb\\sitiowebplatzi\\PlatziWeb.csproj": {
+    "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\PlatziWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jack\\Documents\\PlatziWeb\\sitiowebplatzi\\PlatziWeb.csproj",
+        "projectUniqueName": "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\PlatziWeb.csproj",
         "projectName": "PlatziWeb",
-        "projectPath": "C:\\Users\\jack\\Documents\\PlatziWeb\\sitiowebplatzi\\PlatziWeb.csproj",
+        "projectPath": "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\PlatziWeb.csproj",
         "packagesPath": "C:\\Users\\jack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jack\\Documents\\PlatziWeb\\sitiowebplatzi\\obj\\",
+        "outputPath": "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
