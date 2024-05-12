@@ -13,4 +13,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v.*.*\WebApplications\Microsoft.WebApplication.targets" Condition="'$(Solutions.VSVersion)' == '*.*'" />
+<Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v*.*\WebApplications\Microsoft.WebApplication.targets" Condition="'$(Solutions.VSVersion)' == '*.*'" />
 </Project>

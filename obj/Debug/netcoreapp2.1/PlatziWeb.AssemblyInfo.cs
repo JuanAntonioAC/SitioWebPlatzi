@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlatziWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f42cd39db7a20416842ae7fa039595623543d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa4aa7f0df841d3829a1675566150edcc2d2e677")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlatziWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlatziWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
