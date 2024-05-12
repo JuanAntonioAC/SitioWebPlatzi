@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qozNNHAvvvPi76oBUZHJQ7iJEI/zKqIoIqifLJpJuhQkDDOo8qsknFjybjH4WA8G8aWlLM6cldfQJyeYqQEROA==",
+  "dgSpecHash": "tYukDMgR3JpIUYnt3DLLPBMcaCScI1E5Epwc5RSO4HXDEFg8H8wBEW56XK9w/26yoU+W1qTha85PQ/dJ2WruWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jack\\Documents\\PlatziWeb\\PlatziWeb.csproj",
+  "projectFilePath": "C:\\Users\\jack\\Documents\\PlatziWeb\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
